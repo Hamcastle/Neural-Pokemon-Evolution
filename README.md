@@ -1,6 +1,6 @@
 # Neural-Pokemon-Evolution
 
-A project to volving "evolve" of pokemon using pix2pix, and their names using a char-level seq2seq model. The goal is to make predictions for the new Sword and Shield starters, then see how well I did when their evolved forms are released.
+A project to "evolve" images of Pokemon using pix2pix, and their names using a char-level seq2seq model. The goal is to make predictions for the new Sword and Shield starters, then see how well I did when their evolved forms are released.
 
 The predicted names are:
 
