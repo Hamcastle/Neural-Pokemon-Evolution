@@ -23,3 +23,13 @@ Scorbunny | Honun | Sullox
 Grookey | Bolodum | Giglilic
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](example_imgs/grookey-inputs.png)  |  ![](example_imgs/grookey-outputs.png)| ???
+
+And some cherry-picked examples from the test-set where it doesn't look like the network just put its hands inside the poor wee beasties and twisted its fingers around:
+
+Meowth | Persian Target | Persian Prediction
+:-------------------------:|:-------------------------:|:-------------------------:
+![](example_imgs/meowth-inputs.png) | ![](example_imgs/meowth-targets.png)| ![](example_imgs/meowth-outputs.png)
+
+Ratata | Raticate Target | Raticate Prediction
+:-------------------------:|:-------------------------:|:-------------------------:
+![](example_imgs/ratata-inputs.png) | ![](example_imgs/ratata-targets.png)| ![](example_imgs/ratata-outputs.png)
